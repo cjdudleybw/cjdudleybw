@@ -1,4 +1,6 @@
-### Hi there 👋
+### Greetings 👋
+
+I'm Chris, a Software Engineer at Brandwatch. I work on the Social Panels Platform team, creating a solid foundation on which we build our Social Panel insights product.
 
 <!--
 **cjdudleybw/cjdudleybw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
